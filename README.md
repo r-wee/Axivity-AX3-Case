@@ -19,12 +19,8 @@ Testing prototypes are manufactured with fused deposition modelling (FDM) 3D pri
 | Prusa Research | i3 Mk3/Mk3S | 0.4mm       | PI3MK3M |
 
 ## Contact
-Ryan Wee
-
-[ryan@ryanwee.art](mailto:ryan@ryanwee.art)
-
-[www.ryanwee.art](www.ryanwee.art)
-
-[LinkedIn](https://www.linkedin.com/in/ryan-wee-/)
-
-[Instagram](https://www.instagram.com/_ryanwee/)
+Ryan Wee <br>
+[ryan@ryanwee.art](mailto:ryan@ryanwee.art) <br>
+[www.ryanwee.art](www.ryanwee.art) <br>
+[LinkedIn](https://www.linkedin.com/in/ryan-wee-/) <br>
+[Instagram](https://www.instagram.com/_ryanwee/) <br>
