@@ -3,6 +3,7 @@
 ## About This Project
 The Axivity AX3 is a 3-axis data logging accelerometer in the form factor of a puck. This project seeks to design a universal method to attach AX3 onto a wide variety of body parts, including but not limited to wrists, thighs, chests, of people and animals.
 
+
 ## The Repository
 ### Major Versions
 Relevant files for each major version of the design is placed in its own folder. These files can include the 3D model itself (.stl), Gcode for select FDM printers and renders taken in CAD.
@@ -16,9 +17,14 @@ Testing prototypes are manufactured with fused deposition modelling (FDM) 3D pri
 |                | Ender 5     | 0.4mm       | CE5     |
 |                | CR-5        | 0.4mm       | CR5     |
 | Prusa Research | i3 Mk3/Mk3S | 0.4mm       | PI3MK3M |
+
 ## Contact
 Ryan Wee
+
 [ryan@ryanwee.art](mailto:ryan@ryanwee.art)
+
 [www.ryanwee.art](www.ryanwee.art)
+
 [LinkedIn](https://www.linkedin.com/in/ryan-wee-/)
+
 [Instagram](https://www.instagram.com/_ryanwee/)
